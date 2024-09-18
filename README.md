@@ -1,5 +1,7 @@
 # Google IT Automation with Python
 
+![]("https://www.reliablesoft.net/wp-content/uploads/2022/02/crash-course-on-python-course.webp")
+
 Welcome to the **Google IT Automation with Python** repository! This repository is structured to provide an overview and resources for mastering automation and scripting in Python, with a focus on IT systems. The content is divided into six comprehensive courses offered by Google, each focusing on specific aspects of automation, Python scripting, and related IT skills.
 
 ## 📁 Repository Structure
